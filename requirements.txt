@@ -1,0 +1,15 @@
+dask[complete]==2023.11.0
+pandas==2.1.4
+numpy==1.24.3
+streamlit==1.28.2
+plotly==5.17.0
+matplotlib==3.7.2
+seaborn==0.12.2
+google-cloud-bigquery==3.13.0
+google-cloud-storage==2.10.0
+google-auth==2.23.4
+pyarrow==14.0.2
+fastparquet==2023.10.1
+dataform==1.0.0
+python-dateutil==2.8.2
+pytz==2023.3

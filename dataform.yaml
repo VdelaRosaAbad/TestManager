@@ -1,0 +1,13 @@
+projectConfig:
+  defaultSchema: dataset_acero
+  assertionSchema: assertions
+  useRunCache: false
+
+defaultDatabase: testmanager-470115
+defaultLocation: US
+
+vars:
+  project_id: "testmanager-470115"
+  dataset: "dataset_acero"
+  source_table: "acero_table"
+  target_table: "datamartclean"
